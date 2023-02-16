@@ -6,6 +6,7 @@
 Запустить проект: npm start
 
 Собрать проект в режиме разработки: npm run build:dev
+
 Собрать проект в режиме production: npm run build
 
 
